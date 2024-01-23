@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
+    "prettier":"prettier",
     "lint": "eslint . --ext .js",
     "lint:fix": "eslint . --ext .js --fix",
     "dev": "vite",
